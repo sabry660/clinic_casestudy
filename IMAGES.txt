@@ -1,0 +1,18 @@
+CLINIC MANAGEMENT SYSTEM CASE STUDY - IMAGES LIST
+=================================================
+All images are inside the "images" folder next to index.html (frames from your walkthrough video).
+IMPORTANT: the video only shows empty screens (0 patients, 0 appointments). Load the demo/seed data first, then re-capture for a stronger page.
+To replace an image keep the same file name. Best: 1600px wide JPG/WebP under 300 KB.
+
+ FILE NAME               WHERE IT APPEARS
+ clinic-dashboard.jpg    Hero (dashboard)
+ clinic-new-visit.jpg    "Open a visit in seconds"
+ clinic-cashier.jpg      "Invoices that write themselves"
+ clinic-settings.jpg     "Your clinic, your brand"
+ clinic-login.jpg        Unused spare; used for the portfolio cover
+ clinic-cover.jpg        Portfolio card (1600x900)
+ clinic-cover-800.jpg    Small portfolio cards (800x450)
+
+Screens worth capturing with real demo data: patient list, appointments, triage vitals, consultation, prescription PDF, lab results, invoice and receipt.
+Demo credentials from the README are NOT shown anywhere on the page.
+Zenvora logo: embedded in index.html.
